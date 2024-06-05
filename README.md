@@ -54,6 +54,6 @@ Technologies used in the project;
 
 ### Project View Images:
 
-![images](./src/project_view.png)
+![images](./src/project_view.gif)
 
 > Designed By DOGUKAN © Apr. 2024
