@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Horoscope_Project_Sass/static/css/main.f8366a47.css",
-    "main.js": "/Horoscope_Project_Sass/static/js/main.f2294da8.js",
-    "static/media/logo.png": "/Horoscope_Project_Sass/static/media/logo.d6c42622bddf5a8e7575.png",
+    "main.css": "/Horoscope_Project_Sass/static/css/main.f3e3a5dc.css",
+    "main.js": "/Horoscope_Project_Sass/static/js/main.2493566f.js",
+    "static/media/logo.png": "/Horoscope_Project_Sass/static/media/logo.acf0ed739601c015ea06.png",
     "index.html": "/Horoscope_Project_Sass/index.html",
-    "main.f8366a47.css.map": "/Horoscope_Project_Sass/static/css/main.f8366a47.css.map",
-    "main.f2294da8.js.map": "/Horoscope_Project_Sass/static/js/main.f2294da8.js.map"
+    "main.f3e3a5dc.css.map": "/Horoscope_Project_Sass/static/css/main.f3e3a5dc.css.map",
+    "main.2493566f.js.map": "/Horoscope_Project_Sass/static/js/main.2493566f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8366a47.css",
-    "static/js/main.f2294da8.js"
+    "static/css/main.f3e3a5dc.css",
+    "static/js/main.2493566f.js"
   ]
 }
