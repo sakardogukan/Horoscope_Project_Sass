@@ -1,14 +1,16 @@
 ## Horoscope Page Project
 
 ## Description
-This project is a react app
+This project aims to design a simple astrology onboarding page with React.
 
 ## Objective
-At the end of the project, following topics are to be covered;
+Technologies used in the project;
+
 * HTML
-* CSS
+* CSS / SCSS / SASS
 * JavaScript
 * React
+* React Deployment
 
 -----
 
