@@ -1,5 +1,5 @@
 const Card = (props) => {
-  console.log("ne geliyor : ", props)
+  console.log("props : ", props)
   const { title, date, image, desc } = props
   return (
     <div className="cards">
