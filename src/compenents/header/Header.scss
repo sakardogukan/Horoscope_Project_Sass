@@ -4,15 +4,16 @@
 .header {
     text-align: center;
     margin: 1rem;
-    padding: 0.5rem;
+    padding: 0.55rem;
     margin-top: 15rem;
+    margin-bottom: 40px;
     .text-shadow {
         color: $secondaryColor;
         font-size: 3rem;
         text-transform: uppercase;
         text-decoration: underline;
         letter-spacing: 0.2rem;
-        animation: flicker 0.5s ease-in-out infinite alternate;
+        animation: headerTitle 0.5s ease-in-out infinite alternate;
         transition: all 0.5s ease-in-out;
 
         &:hover {
@@ -20,7 +21,7 @@
             cursor: pointer;
         }
     }
-    @keyframes flicker {
+    @keyframes headerTitle {
         0% {
             opacity: 0.5;
             text-shadow: 2px 2px 10px $cardNavBgColor;
